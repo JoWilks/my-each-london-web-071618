@@ -5,7 +5,7 @@ def my_each(array)
       i += 1
      end
   else
-    puts "no valid input"
+    nil
   end
 end
 
