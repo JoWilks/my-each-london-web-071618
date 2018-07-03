@@ -8,5 +8,6 @@ def my_each(array)
   else
     nil
   end
+  array
 end
 
